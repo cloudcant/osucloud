@@ -8,7 +8,7 @@ My edit on osugame.online that adds a darker theme and a diffrent cursor aswell 
 <br>
 
 ## Gameplay
-<img src="https://user-images.githubusercontent.com/66269103/187049220-5ce21b8d-ca12-4df0-a5ae-fabc8c284572.png" width=40%>
+<p align="center"><img width=95% src="https://user-images.githubusercontent.com/66269103/187049220-5ce21b8d-ca12-4df0-a5ae-fabc8c284572.png"></p>
 
 <br>
 
