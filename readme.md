@@ -1,5 +1,5 @@
-<p align="center"><img width=12.5% src="https://github.com/cloudcant/osucloud/blob/main/readme/Untitled.png"></p>
-<p align="center"><img width=60% src="https://github.com/cloudcant/osucloud/blob/main/readme/banner.jpg"></p>
+<p align="center"><img width=12.5% src="https://user-images.githubusercontent.com/66269103/187049746-3383d770-b04c-4851-b505-528d695f9712.png"></p>
+<p align="center"><img width=60% src="https://user-images.githubusercontent.com/66269103/187049742-bee34355-5203-430a-993f-c4b03f626c4a.png"></p>
 
 ## Basic Overview
 My edit on osugame.online that adds a darker theme and a diffrent cursor aswell as more in the future such as replays and a pp system.
