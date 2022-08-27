@@ -26,3 +26,6 @@ Noting Yet!
 - import skins
 - better ui
 - import css 
+
+## Licence
+https://github.com/cloudcant/osucloud/LICENCE.md
