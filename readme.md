@@ -1,13 +1,8 @@
 <p align="center"><img width=12.5% src="https://github.com/cloudcant/osucloud/blob/main/readme/Untitled.png"></p>
 <p align="center"><img width=60% src="https://github.com/cloudcant/osucloud/blob/main/readme/banner.jpg"></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/clairvoyant.svg)](https://github.com/cloudcant/osucloud/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-
 ## Basic Overview
-
-Using stock historical data, train a supervised learning algorithm with any combination of financial indicators. Rapidly backtest your model for accuracy and simulate investment portfolio performance. 
+My edit on osugame.online that adds a darker theme and a diffrent cursor aswell as more in the future such as replays and a pp system.
 <p align="center"><img width=95% src="https://github.com/anfederico/clairvoyant/blob/master/media/Schematic.png"></p>
 
 <br>
