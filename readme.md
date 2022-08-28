@@ -18,6 +18,9 @@ I cant pay for hosting tight now so im using github pages - https://pages.github
 ## Latest Development Changes
 Noting Yet!
 
+#### ERRORS
+- Leaderboard not working only when hosting on git
+
 #### Pending Features
 - Replays
 - Preformance Points (pp) system
